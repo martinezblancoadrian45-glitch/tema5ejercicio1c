@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(224, 90, 41);
+}
+p:first-of-type {
+    color: blue;
+}
+p::first-line {
+    font-weight: bold;
+}
+p:last-of-type {
+    color: green;
+}
